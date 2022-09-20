@@ -1,2 +1,0 @@
-# Projeto-de-Web-scrapping-iniciante
-Esse é um projeto pessoal de nivel iniciante realizado por mim Nathan Christian de Moura, venho no git hub compartilhar o código do script para iniciantes assim como eu na area de programação. A ideia do projeto é raspar dados da web do site fundamentos (site de ativos da bolsa de valores) e armazena-las em um banco de dados no SQL Server para posterior trabalho do usúario.
